@@ -228,3 +228,5 @@ Technical Questions
 * Gradient descent and how does it work
 
 * Bootstrapping
+
+* Bias Variance Trade off 
